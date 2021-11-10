@@ -1,0 +1,16 @@
+E:\CollectionsMethods\obj\Debug\net5.0\CollectionsMethods.csproj.AssemblyReference.cache
+E:\CollectionsMethods\obj\Debug\net5.0\CollectionsMethods.GeneratedMSBuildEditorConfig.editorconfig
+E:\CollectionsMethods\obj\Debug\net5.0\CollectionsMethods.AssemblyInfoInputs.cache
+E:\CollectionsMethods\obj\Debug\net5.0\CollectionsMethods.AssemblyInfo.cs
+E:\CollectionsMethods\obj\Debug\net5.0\CollectionsMethods.csproj.CoreCompileInputs.cache
+E:\CollectionsMethods\bin\Debug\net5.0\CollectionsMethods.exe
+E:\CollectionsMethods\bin\Debug\net5.0\CollectionsMethods.deps.json
+E:\CollectionsMethods\bin\Debug\net5.0\CollectionsMethods.runtimeconfig.json
+E:\CollectionsMethods\bin\Debug\net5.0\CollectionsMethods.runtimeconfig.dev.json
+E:\CollectionsMethods\bin\Debug\net5.0\CollectionsMethods.dll
+E:\CollectionsMethods\bin\Debug\net5.0\ref\CollectionsMethods.dll
+E:\CollectionsMethods\bin\Debug\net5.0\CollectionsMethods.pdb
+E:\CollectionsMethods\obj\Debug\net5.0\CollectionsMethods.dll
+E:\CollectionsMethods\obj\Debug\net5.0\ref\CollectionsMethods.dll
+E:\CollectionsMethods\obj\Debug\net5.0\CollectionsMethods.pdb
+E:\CollectionsMethods\obj\Debug\net5.0\CollectionsMethods.genruntimeconfig.cache
