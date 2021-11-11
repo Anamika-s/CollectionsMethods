@@ -4,13 +4,7 @@ class CollectionsDemo
 {
   static void Main()
   {
-   using System;
-using System.Collections;
-
-class A
-{
-    static void Main()
-    {
+   
         ArrayList list = new ArrayList();
         list.Add(1);
         list.Add(2);
@@ -28,5 +22,5 @@ class A
 }
     
 
-  }
-}
+   
+ 
